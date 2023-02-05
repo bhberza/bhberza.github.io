@@ -1,4 +1,5 @@
-<head>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4685727302119209"
-     crossorigin="anonymous"></script>
-</head>
+## Project Description
+
+* [live example](https://learning-zone.github.io/website-templates/startbootstrap-clean-blog-1.0.2)
+
+![alt text](https://github.com/learning-zone/website-templates/blob/master/assets/startbootstrap-clean-blog-1.0.2.png "startbootstrap-clean-blog-1.0.2")
